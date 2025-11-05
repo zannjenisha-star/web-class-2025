@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    color:#333;
+    background-color: #a1b8c6;
+    margin:0;
+    padding :0;
+}
+.continer{
+    max-width: 600px;
+    margin: 40px auto;
+    padding:10px 30px;
+    background-color:#4108c7;
+    border: radius 8px;
+    box-shadow: 0 2px 4px rgba(151, 182, 13, 0.1);
+}
